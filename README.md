@@ -76,3 +76,7 @@ pip install opencv-python mediapipe scikit-learn matplotlib gradio
 ## Topics
 eigenfaces • pca • trauma-informed-ai • media-forensics • protective-ai • face-analysis • ethics-first • computer-vision
 
+📮 Contact / Attribution
+Want to collaborate, build responsibly, or extend the idea to other forms of non-invasive pattern detection?
+
+Please open an issue or contact the creator directly.
